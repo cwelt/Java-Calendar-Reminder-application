@@ -5,6 +5,7 @@ Java Swing MVC-UI desktop callendar-reminder :calendar: application, which lets 
 
 ## Usage 
 Inorder to run the app, you could just run the "run.bat" script :page_with_curl:.
+
 Select desired dates :date:, save reminders, and then you could upload them later and display them. 
 
 ## Screenshots 
