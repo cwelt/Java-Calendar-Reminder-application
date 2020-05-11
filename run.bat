@@ -1,0 +1,2 @@
+java -classpath .;.. ReminderApplication
+pause
